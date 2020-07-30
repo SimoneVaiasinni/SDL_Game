@@ -1,0 +1,83 @@
+#idle right
+./res/img/Player/idle/right/Idle_1.png
+./res/img/Player/idle/right/Idle_2.png
+./res/img/Player/idle/right/Idle_3.png
+./res/img/Player/idle/right/Idle_4.png
+
+#idle left
+./res/img/Player/idle/left/Idle_1.png
+./res/img/Player/idle/left/Idle_2.png
+./res/img/Player/idle/left/Idle_3.png
+./res/img/Player/idle/left/Idle_4.png
+
+#run right
+./res/img/Player/run/right/Run_1.png
+./res/img/Player/run/right/Run_2.png
+./res/img/Player/run/right/Run_3.png
+./res/img/Player/run/right/Run_4.png
+./res/img/Player/run/right/Run_5.png
+./res/img/Player/run/right/Run_6.png
+
+#run left
+./res/img/Player/run/left/Run_1.png
+./res/img/Player/run/left/Run_2.png
+./res/img/Player/run/left/Run_3.png
+./res/img/Player/run/left/Run_4.png
+./res/img/Player/run/left/Run_5.png
+./res/img/Player/run/left/Run_6.png
+
+#jump right
+./res/img/Player/jump/right/Jump_1.png
+./res/img/Player/jump/right/Jump_2.png
+
+#jump left
+./res/img/Player/jump/left/Jump_1.png
+./res/img/Player/jump/left/Jump_2.png
+
+#falling right
+./res/img/Player/falling/right/Falling_1.png
+
+#falling left
+./res/img/Player/falling/left/Falling_1.png
+
+#attack right
+./res/img/Player/attack/right/Attack_1.png
+./res/img/Player/attack/right/Attack_2.png
+./res/img/Player/attack/right/Attack_3.png
+./res/img/Player/attack/right/Attack_4.png
+./res/img/Player/attack/right/Attack_5.png
+
+#attack left
+./res/img/Player/attack/left/Attack_1.png
+./res/img/Player/attack/left/Attack_2.png
+./res/img/Player/attack/left/Attack_3.png
+./res/img/Player/attack/left/Attack_4.png
+./res/img/Player/attack/left/Attack_5.png
+
+#death right
+./res/img/Player/death/right/Death_1.png
+./res/img/Player/death/right/Death_2.png
+./res/img/Player/death/right/Death_3.png
+./res/img/Player/death/right/Death_4.png
+./res/img/Player/death/right/Death_5.png
+./res/img/Player/death/right/Death_6.png
+./res/img/Player/death/right/Death_7.png
+
+#death left
+./res/img/Player/death/left/Death_1.png
+./res/img/Player/death/left/Death_2.png
+./res/img/Player/death/left/Death_3.png
+./res/img/Player/death/left/Death_4.png
+./res/img/Player/death/left/Death_5.png
+./res/img/Player/death/left/Death_6.png
+./res/img/Player/death/left/Death_7.png
+
+#hit react right
+./res/img/Player/hit react/right/hurt_1.png
+./res/img/Player/hit react/right/hurt_2.png
+./res/img/Player/hit react/right/hurt_3.png
+
+#hit react left
+./res/img/Player/hit react/left/hurt_1.png
+./res/img/Player/hit react/left/hurt_2.png
+./res/img/Player/hit react/left/hurt_3.png

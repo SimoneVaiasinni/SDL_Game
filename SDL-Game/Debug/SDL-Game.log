@@ -1,0 +1,30 @@
+﻿  main.cpp
+main.obj : error LNK2019: riferimento al simbolo esterno _SDL_GetTicks non risolto nella funzione _SDL_main
+Player.obj : error LNK2001: simbolo esterno _SDL_GetTicks non risolto
+main.obj : error LNK2019: riferimento al simbolo esterno _SDL_Delay non risolto nella funzione _SDL_main
+Entity.obj : error LNK2019: riferimento al simbolo esterno _SDL_SetRenderDrawColor non risolto nella funzione "public: virtual void __thiscall Entity::DrawRect(void)" (?DrawRect@Entity@@UAEXXZ)
+Game.obj : error LNK2001: simbolo esterno _SDL_SetRenderDrawColor non risolto
+Entity.obj : error LNK2019: riferimento al simbolo esterno _SDL_RenderDrawRect non risolto nella funzione "public: virtual void __thiscall Entity::DrawRect(void)" (?DrawRect@Entity@@UAEXXZ)
+Entity.obj : error LNK2019: riferimento al simbolo esterno _SDL_RenderCopy non risolto nella funzione "public: virtual void __thiscall Entity::Render(void)" (?Render@Entity@@UAEXXZ)
+Game.obj : error LNK2001: simbolo esterno _SDL_RenderCopy non risolto
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_GetError non risolto nella funzione "public: void __thiscall Game::Init(int,int,char const *,bool)" (?Init@Game@@QAEXHHPBD_N@Z)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_CreateWindow non risolto nella funzione "public: void __thiscall Game::Init(int,int,char const *,bool)" (?Init@Game@@QAEXHHPBD_N@Z)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_DestroyWindow non risolto nella funzione "public: void __thiscall Game::Destroy(void)" (?Destroy@Game@@QAEXXZ)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_GetKeyboardState non risolto nella funzione "public: void __thiscall Game::HandleEvent(void)" (?HandleEvent@Game@@QAEXXZ)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_PollEvent non risolto nella funzione "public: void __thiscall Game::HandleEvent(void)" (?HandleEvent@Game@@QAEXXZ)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_ShowSimpleMessageBox non risolto nella funzione "private: void __thiscall Game::PrintError<char const *>(char const *,char const *)" (??$PrintError@PBD@Game@@AAEXPBD0@Z)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_CreateRenderer non risolto nella funzione "public: void __thiscall Game::Init(int,int,char const *,bool)" (?Init@Game@@QAEXHHPBD_N@Z)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_RenderClear non risolto nella funzione "public: void __thiscall Game::Render(void)" (?Render@Game@@QAEXXZ)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_RenderPresent non risolto nella funzione "public: void __thiscall Game::Render(void)" (?Render@Game@@QAEXXZ)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_Init non risolto nella funzione "public: void __thiscall Game::Init(int,int,char const *,bool)" (?Init@Game@@QAEXHHPBD_N@Z)
+Game.obj : error LNK2019: riferimento al simbolo esterno _SDL_Quit non risolto nella funzione "public: void __thiscall Game::Destroy(void)" (?Destroy@Game@@QAEXXZ)
+TextureLoader.obj : error LNK2019: riferimento al simbolo esterno _SDL_FreeSurface non risolto nella funzione "public: static struct SDL_Texture * __cdecl TextureLoader::LoadTexture(char const *)" (?LoadTexture@TextureLoader@@SAPAUSDL_Texture@@PBD@Z)
+TextureLoader.obj : error LNK2019: riferimento al simbolo esterno _SDL_CreateTextureFromSurface non risolto nella funzione "public: static struct SDL_Texture * __cdecl TextureLoader::LoadTexture(char const *)" (?LoadTexture@TextureLoader@@SAPAUSDL_Texture@@PBD@Z)
+TextureLoader.obj : error LNK2019: riferimento al simbolo esterno _IMG_Load non risolto nella funzione "public: static struct SDL_Texture * __cdecl TextureLoader::LoadTexture(char const *)" (?LoadTexture@TextureLoader@@SAPAUSDL_Texture@@PBD@Z)
+CollisionManager.obj : error LNK2019: riferimento al simbolo esterno _SDL_HasIntersection non risolto nella funzione "public: static bool __cdecl CollisionManager::CheckCollision(class Entity *,unsigned int)" (?CheckCollision@CollisionManager@@SA_NPAVEntity@@I@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno _main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\simon\OneDrive\Desktop\SDL-Game\\Dependencies\lib\SDL2.lib : warning LNK4272: il tipo 'x64' del computer della libreria è in conflitto con il tipo 'x86' del computer di destinazione
+C:\Users\simon\OneDrive\Desktop\SDL-Game\\Dependencies\lib\SDL2main.lib : warning LNK4272: il tipo 'x64' del computer della libreria è in conflitto con il tipo 'x86' del computer di destinazione
+C:\Users\simon\OneDrive\Desktop\SDL-Game\\Dependencies\lib\SDL2test.lib : warning LNK4272: il tipo 'x64' del computer della libreria è in conflitto con il tipo 'x86' del computer di destinazione
+C:\Users\simon\OneDrive\Desktop\SDL-Game\\Dependencies\lib\SDL2_image.lib : warning LNK4272: il tipo 'x64' del computer della libreria è in conflitto con il tipo 'x86' del computer di destinazione
+C:\Users\simon\OneDrive\Desktop\SDL-Game\Debug\SDL-Game.exe : fatal error LNK1120: 21 esterni non risolti

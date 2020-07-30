@@ -1,0 +1,61 @@
+#idle right
+./res/img/Slime/idle/right/slime-idle-0.png
+./res/img/Slime/idle/right/slime-idle-1.png
+./res/img/Slime/idle/right/slime-idle-2.png
+./res/img/Slime/idle/right/slime-idle-3.png
+
+#idle left
+./res/img/Slime/idle/left/slime-idle-0.png
+./res/img/Slime/idle/left/slime-idle-1.png
+./res/img/Slime/idle/left/slime-idle-2.png
+./res/img/Slime/idle/left/slime-idle-3.png
+
+#walk right
+./res/img/Slime/walk/right/slime-move-0.png
+./res/img/Slime/walk/right/slime-move-1.png
+./res/img/Slime/walk/right/slime-move-2.png
+./res/img/Slime/walk/right/slime-move-3.png
+
+#walk left
+./res/img/Slime/walk/left/slime-move-0.png
+./res/img/Slime/walk/left/slime-move-1.png
+./res/img/Slime/walk/left/slime-move-2.png
+./res/img/Slime/walk/left/slime-move-3.png
+
+#attack right
+./res/img/Slime/attack/right/slime-attack-0.png
+./res/img/Slime/attack/right/slime-attack-1.png
+./res/img/Slime/attack/right/slime-attack-2.png
+./res/img/Slime/attack/right/slime-attack-3.png
+./res/img/Slime/attack/right/slime-attack-4.png
+
+#attack left
+./res/img/Slime/attack/left/slime-attack-0.png
+./res/img/Slime/attack/left/slime-attack-1.png
+./res/img/Slime/attack/left/slime-attack-2.png
+./res/img/Slime/attack/left/slime-attack-3.png
+./res/img/Slime/attack/left/slime-attack-4.png
+
+#death right
+./res/img/Slime/death/right/slime-die-0.png
+./res/img/Slime/death/right/slime-die-1.png
+./res/img/Slime/death/right/slime-die-2.png
+./res/img/Slime/death/right/slime-die-3.png
+
+#death left
+./res/img/Slime/death/left/slime-die-0.png
+./res/img/Slime/death/left/slime-die-1.png
+./res/img/Slime/death/left/slime-die-2.png
+./res/img/Slime/death/left/slime-die-3.png
+
+#hit react right
+./res/img/Slime/hit/right/slime-hurt-0.png
+./res/img/Slime/hit/right/slime-hurt-1.png
+./res/img/Slime/hit/right/slime-hurt-2.png
+./res/img/Slime/hit/right/slime-hurt-3.png
+
+#hit react left
+./res/img/Slime/hit/left/slime-hurt-0.png
+./res/img/Slime/hit/left/slime-hurt-1.png
+./res/img/Slime/hit/left/slime-hurt-2.png
+./res/img/Slime/hit/left/slime-hurt-3.png
